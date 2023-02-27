@@ -6,6 +6,7 @@ This is an Android application of the classic game connect four.
 Clone this project, open Android Studio on your computer, then open the project.
 
 Emulator 
+
 Click on the "AVD Manager" button (a mobile phone with a green android icon) on the top toolbar. This will open the Android Virtual Device Manager.
 
 Click on the "Create Virtual Device" button to create a new emulator.
