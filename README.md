@@ -29,6 +29,9 @@ Once the application is installed, it will automatically launch on the emulator.
 ## Game Controls
 To place a piece on the board tap any square to place your piece.
 
+## Demo
+[![Alt text](https://youtu.be/WMsOEHMa8qw}
+
 ## Minimum Requriment 
 An Android device running Android 5.0 (Lollipop) or later.
 
