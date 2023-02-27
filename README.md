@@ -30,7 +30,8 @@ Once the application is installed, it will automatically launch on the emulator.
 To place a piece on the board tap any square to place your piece.
 
 ## Demo
-[![Alt text](https://youtu.be/WMsOEHMa8qw}
+[![Alt text](https://img.youtube.com/vi/WMsOEHMa8qw/0.jpg)](https://www.youtube.com/watch?v=WMsOEHMa8qw)
+
 
 ## Minimum Requriment 
 An Android device running Android 5.0 (Lollipop) or later.
